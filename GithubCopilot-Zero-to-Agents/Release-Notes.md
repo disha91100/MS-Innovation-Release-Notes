@@ -16,6 +16,46 @@ For any further details or inquiries, feel free to reach out to the CloudLabs su
 # Release Notes
 
 <details>
+  <summary>2026-07-14</summary>
+
+## Release Date: 2026-07-14
+
+### Summary of Changes
+
+- Updated the lab content to align with the latest product experience.
+- Refreshed screenshots to reflect the current Visual Studio Code and GitHub Copilot user interface.
+- Improved instructional clarity, GitHub Copilot prompts, and overall learner experience.
+
+### Infrastructure Changes
+
+- No infrastructure changes.
+
+### Content Changes
+
+1. Refreshed screenshots to reflect the latest product UI and workflow.
+2. Updated task instructions to align with current Visual Studio Code and GitHub Copilot experiences.
+3. Improved GitHub Copilot prompts and expected outputs for better learner guidance.
+4. Corrected instructional steps, hyperlinks, and formatting inconsistencies.
+
+### Screenshot Updates
+
+- Refreshed all Visual Studio Code screenshots across the lab.
+- Updated GitHub and GitHub Copilot screenshots to reflect the latest user interface.
+- Replaced screenshots impacted by UI, option, or terminology changes.
+
+### Testing Notes
+
+- **Testing Date**: 2026-07-14
+
+### Testing Scope
+
+End-to-end validation of the complete lab guide, including the Getting Started section, architecture diagram and component descriptions, all task instructions, Visual Studio Code workflows, GitHub Copilot chat interactions, refreshed screenshots, hyperlink validation, instructional sequencing, code snippets, expected outputs, formatting, and overall content quality to ensure alignment with the current user interface and expected learner experience.
+
+---
+
+</details>
+
+<details>
   <summary>2026-06-30</summary>
 
 ## Release Date: 2026-06-30
